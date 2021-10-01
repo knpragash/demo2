@@ -6,7 +6,10 @@ package demo2.demo2;
  */
 public class App 
 {
+	public String name;
+	public String address;
     public int salary;
+    public int bonus;
     
     public static void main( String[] args )
     {
