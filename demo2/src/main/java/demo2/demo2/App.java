@@ -8,6 +8,7 @@ public class App
 {
 	public String name;
 	public String address;
+	public String father;
     public int salary;
     public int bonus;
     
