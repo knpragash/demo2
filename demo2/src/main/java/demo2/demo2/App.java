@@ -6,6 +6,8 @@ package demo2.demo2;
  */
 public class App 
 {
+    public int salary;
+    
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
